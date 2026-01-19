@@ -1,4 +1,4 @@
-
+package com.example.day2part2.models;
 public class StudentModel {
     private int id;    
     private String email;    
